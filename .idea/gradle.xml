@@ -5,6 +5,16 @@
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/navigationbar" />
+            <option value="$PROJECT_DIR$/navigationdrawer" />
+            <option value="$PROJECT_DIR$/tabnavigation" />
+          </set>
+        </option>
       </GradleProjectSettings>
     </option>
   </component>
